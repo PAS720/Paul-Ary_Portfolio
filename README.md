@@ -1,5 +1,5 @@
 # Welcome to Paul-Ary's portfolio website
-## Who is Paul-ary Sigwald?
+## Who am I? 
 
 Hi, my name is Paul-Ary. I'm a final year finance major pursuing a joint program between Concordia University & Skema Business School (France). I am proud to share that I have been awarded a €2000 schorlarship by Skema and that I have been admitted to the Beta Gamma Sigma Honors Society recognizing the top 10% of undergrad students at Concordia. Those awards are an acknowledgment of all the hard work I have put into my studies.
 
