@@ -26,4 +26,4 @@ This valuation of Delta Airlines was built as part of my Investesment Analysis f
 ### [Academic Stress Amongst College Students Study](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Group%202%20-%20Stress%20among%20college%20students.pdf)
 This research essay for handed-in for spychological study at Skema Business School. This paper researches the impact of perceived stress and its sources in the academic environment. The main goal was to ascertain that academic stress exists and to determine its source. Based on literature reviews and Rajendran & Kaliappan academic stress scale of 1991 (Psychological Resources, 2014), we conducted a quantitative survey design administered across a variety of academic segments (management & economics, engineering, law & politics, medical studies, and humanities).
 
-![](Images/Image_1.png)
+[![](Images/Image_1.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Group%202%20-%20Stress%20among%20college%20students.pdf)
