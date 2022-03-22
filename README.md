@@ -7,9 +7,25 @@ My experiences have provided me with some accounting knowledge of a medium-sized
 
 To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.com/in/paulary-sigwald/) or preview my [CV](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Resume%20-%20Paul-ary-Sigwald.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My Projects
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+### Projects 1: Delta Airlines Valuation using Factset
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
