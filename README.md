@@ -9,13 +9,11 @@ My experiences have provided me with some accounting knowledge of a medium-sized
 
 To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.com/in/paulary-sigwald/) or preview my [CV](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Resume%20-%20Paul-ary-Sigwald.pdf)
 
-  ### Skills
+### Skills
 ```
-{
 LANGUAGES: French, English, Dutch
 FINANCE SKILLS: Capital IQ, Bloomberg, FactSet, DCF
 OTHER SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA), Outlook, PowerPoint, Github
-}
 ```
 
 ## My Projects
