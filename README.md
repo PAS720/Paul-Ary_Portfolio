@@ -10,49 +10,19 @@ To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.c
 
 ## My Projects
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+### Delta Airlines Valuation using Factset
+**DISCLAIMER:** THIS FILE IS A NON-REFRESHING COPY: Factset add-on requires to login to access the excel file. Therefore I have made a copy so that evrybody could access it.
 
+This valuation of Delta Airlines was built as part of my Investesment Analysis final project at Concordia. It includes:
+- Industry Analysis
+- Revenue Forecasts
+- CAPEX adjustments for R&D and Leases
+- Bottom-up Beta's
+- Intrinsic valuation
+- Relative valuation using multiple
 
 
-### Projects 1: Delta Airlines Valuation using Factset
+### Academic Stress Amongst College Students Study
+This research essay for handed-in for spychological study at Skema Business School. This paper researches the impact of perceived stress and its sources in the academic environment. The main goal was to ascertain that academic stress exists and to determine its source. Based on literature reviews and Rajendran & Kaliappan academic stress scale of 1991 (Psychological Resources, 2014), we conducted a quantitative survey design administered across a variety of academic segments (management & economics, engineering, law & politics, medical studies, and humanities).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PAS720/Paul-Ary_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
