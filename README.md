@@ -9,12 +9,12 @@ My experiences have provided me with some accounting knowledge of a medium-sized
 
 To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.com/in/paulary-sigwald/) or preview my [CV](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Resume%20-%20Paul-ary-Sigwald.pdf)
 
-
+  ### Skills
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+LANGUAGES: French, English, Dutch
+FINANCE SKILLS: Capital IQ, Bloomberg, FactSet, DCF
+OTHER SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA), Outlook, PowerPoint, Github
 }
 ```
 
@@ -36,8 +36,5 @@ This valuation of Delta Airlines was built as part of my Investesment Analysis f
 ### [Academic Stress Amongst College Students Study](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Group%202%20-%20Stress%20among%20college%20students.pdf)
 This research essay for handed-in for spychological study at Skema Business School. This paper researches the impact of perceived stress and its sources in the academic environment. The main goal was to ascertain that academic stress exists and to determine its source. Based on literature reviews and Rajendran & Kaliappan academic stress scale of 1991 (Psychological Resources, 2014), we conducted a quantitative survey design administered across a variety of academic segments (management & economics, engineering, law & politics, medical studies, and humanities).
 
-```
-{
+
 [![](Images/Image_1.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Group%202%20-%20Stress%20among%20college%20students.pdf)
-}
-```
