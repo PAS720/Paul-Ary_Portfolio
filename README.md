@@ -5,7 +5,7 @@ Hi, my name is Paul-Ary. I'm a final year finance major pursuing a joint program
 
 My experiences have provided me with some accounting knowledge of a medium-sized firms and have enhanced my interest in pursuing a career in finance. Therefore, planning on passing the CFA level-1 after my graduation in May 2022. I also have high interest for data analytics. I have passed courses in Python & SQL. Additionally, I have enrolled into online degree with MIT in Statistics and Data Science as I would like to pursue a career in Actuarial Sciences. 
 
-You can use the [editor on GitHub](https://github.com/PAS720/Paul-Ary_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.com/in/paulary-sigwald/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
