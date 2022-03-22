@@ -12,6 +12,14 @@ To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.c
 }
 ```
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 ## My Projects
 
 
