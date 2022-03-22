@@ -1,7 +1,6 @@
 # Welcome to Paul-Ary's portfolio website
 
-```
-{
+
 ## Who am I? 
 
 Hi, my name is Paul-Ary. I'm a final year finance major pursuing a joint program between Concordia University & Skema Business School (France). I am proud to share that I have been awarded a €2000 schorlarship by Skema and that I have been admitted to the Beta Gamma Sigma Honors Society recognizing the top 10% of undergrad students at Concordia. Those awards are an acknowledgment of all the hard work I have put into my studies.
@@ -9,8 +8,7 @@ Hi, my name is Paul-Ary. I'm a final year finance major pursuing a joint program
 My experiences have provided me with some accounting knowledge of a medium-sized firms and have enhanced my interest in pursuing a career in finance. Therefore, planning on passing the CFA level-1 after my graduation in May 2022. I also have high interest for data analytics. I have passed courses in Python & SQL. Additionally, I have enrolled into online degree with MIT in Statistics and Data Science as I would like to pursue a career in Actuarial Sciences. 
 
 To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.com/in/paulary-sigwald/) or preview my [CV](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Resume%20-%20Paul-ary-Sigwald.pdf)
-}
-```
+
 
 ```
 {
