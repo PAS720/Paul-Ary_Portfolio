@@ -13,7 +13,7 @@ To learn more about me please visit my [LinkedIn Profile](https://www.linkedin.c
 ```
 LANGUAGES: French, English, Dutch
 FINANCE SKILLS: Capital IQ, Bloomberg, FactSet, DCF
-OTHER SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA), Outlook, PowerPoint, Github
+IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA), Outlook, PowerPoint, Github
 ```
 
 ## My Projects
