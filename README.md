@@ -23,7 +23,7 @@ IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA),
 ### [Sales Analysis in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
 This research showcases the descriptive power of data when manipulated with Python. Businesses should embrace data as it improves cutomer experience, helps mitigate risk and provide firm with more reliable forecasts. This analysis could have been improved if combined with other visualization tools such as seaborn library in Python, Tableau or PowerBI. Stay tuned for a new project with visual improvements! The data has been retrieved from Github. 
 
-[![](Screen Shot 2022-03-23 at 12.02.30 AM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
+[![](Images/Screen Shot 2022-03-23 at 12.02.30 AM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
 
 ### Delta Airlines Valuation using Factset
 **DISCLAIMER:** THIS FILE IS A NON-REFRESHING COPY: The Factset add-on requires to login to access the excel file. Therefore I have made a copy so that everybody could access it.
