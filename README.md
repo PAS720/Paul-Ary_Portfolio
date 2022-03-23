@@ -19,6 +19,11 @@ IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA),
 ## My Projects
 
 
+### [Sales Analysis in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
+This research the impact of perceived stress and its sources in the academic environment. The main goal was to ascertain that academic stress exists and to determine its source. Based on literature reviews and Rajendran & Kaliappan academic stress scale of 1991 (Psychological Resources, 2014), we conducted a quantitative survey design administered across a variety of academic segments (management & economics, engineering, law & politics, medical studies, and humanities).
+
+[![](Images/Screen Shot 2022-03-22 at 11.26.41 PM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
+
 ### Delta Airlines Valuation using Factset
 **DISCLAIMER:** THIS FILE IS A NON-REFRESHING COPY: The Factset add-on requires to login to access the excel file. Therefore I have made a copy so that everybody could access it.
 
