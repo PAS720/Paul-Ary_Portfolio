@@ -16,11 +16,12 @@ FINANCE SKILLS: Capital IQ, Bloomberg, FactSet, DCF
 IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA), Outlook, PowerPoint, Github
 ```
 
+
 ## My Projects
 
 
 ### [Sales Analysis in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
-This research the impact of perceived stress and its sources in the academic environment. The main goal was to ascertain that academic stress exists and to determine its source. Based on literature reviews and Rajendran & Kaliappan academic stress scale of 1991 (Psychological Resources, 2014), we conducted a quantitative survey design administered across a variety of academic segments (management & economics, engineering, law & politics, medical studies, and humanities).
+This research showcases the descriptive power of data when manipulated with Python. Businesses should embrace data as it improves cutomer experience, helps mitigate risk and provide firm with more reliable forecasts. This analysis could have been improved if combined with other visualization tools such as seaborn library in Python, Tableau or PowerBI. Stay tuned for a new project with visual improvements! The data has been retrieved from Github. 
 
 [![](Images/Screen Shot 2022-03-22 at 11.26.41 PM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
 
