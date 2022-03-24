@@ -21,7 +21,7 @@ IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA),
 
 
 ### [Portfolio Optimization in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Projects/Portfolio%20Optimization%20Project.ipynb)
-In this notebook, I applied the modern portfolio theory (MPT) to python in order to maximize the sharpe ratio of a 5 stock portfolio. In this project I covers:
+In this notebook, I applied the modern portfolio theory (MPT) to python in order to maximize the sharpe ratio of a 5 stock portfolio.
 - Retrieving data from Yahoo Finance
 - Measuring & Standardizing log returns
 - Markowitz efficient frontier
