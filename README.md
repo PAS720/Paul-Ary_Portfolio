@@ -25,7 +25,7 @@ This research showcases the descriptive power of data when manipulated with Pyth
 
 [![](Images/Screen Shot 2022-03-23 at 10.25.32 AM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
 
-### Delta Airlines Valuation using Factset
+### [Delta Airlines Valuation using Factset](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Projects/Delta%20Air%20Lines%20Analysis.xlsx)
 **DISCLAIMER:** THIS FILE IS A NON-REFRESHING COPY: The Factset add-on requires to login to access the excel file. Therefore I have made a copy so that everybody could access it.
 
 This valuation of Delta Airlines was built as part of my Investesment Analysis final project at Concordia. It includes:
@@ -35,6 +35,8 @@ This valuation of Delta Airlines was built as part of my Investesment Analysis f
 - Bottom-up Beta's
 - Intrinsic valuation
 - Relative valuation using multiple
+
+[![](Images/Screenshot Factset.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Projects/Delta%20Air%20Lines%20Analysis.xlsx)
 
 
 ### [Academic Stress Amongst College Students Study](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Group%202%20-%20Stress%20among%20college%20students.pdf)
