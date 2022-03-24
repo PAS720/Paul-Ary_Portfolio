@@ -38,8 +38,10 @@ This valuation of Delta Airlines was built as part of my Investesment Analysis f
 - Industry Analysis
 - Debt Capital valuation
 - Revenue Forecasts
+- Revenue segmentation per industry
 - CAPEX adjustments for R&D and Leases
 - Bottom-up Beta's
+- Geographic segmentation and equition risk premiums
 - Intrinsic valuation
 - FCFE & FCFF
 - Relative valuation using exit multiple
