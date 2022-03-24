@@ -18,6 +18,23 @@ IT SKILLS: Python, SQL, Word, SAP, Excel (Pivot Tables, VLOOKUP, Macro's & VBA),
 
 
 ## My Projects
+
+
+### [Portfolio Optimization in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Projects/Portfolio%20Optimization%20Project.ipynb)
+In this notebook, I applied the modern portfolio theory (MPT) to python in order to maximize the sharpe ratio of a 5 stock portfolio. In this project I covers:
+- Retrieving data from Yahoo Finance
+- Measuring & Standardizing log returns
+- Markowitz efficient frontier
+- Minimum variance portfolio
+- Optimal risky portfolio
+- Capital Allocation Line
+- CAPM & beta's
+
+[![](Images/Screen Shot 2022-03-24 at 5.43.15 PM.png)](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/Projects/Portfolio%20Optimization%20Project.ipynb)
+ 
+ 
+ 
+ 
  
 
 ### [Sales Analysis in Python](https://github.com/PAS720/Paul-Ary_Portfolio/blob/main/SalesAnalysis.ipynb)
